@@ -1,0 +1,4 @@
+Question #.1 In your organisation, what is your branching strategy?:
+  2. Tell me about your git environment?
+  Ans. Our branching strategies are from git developement system to Testing, then QA and Production
+  Ans, #2 Our Git Enviroments Dev, Staging and Production, we set our enviroment to have two secret with same name and defferent value thats our Dev, but testing and Prod has manual trigger work flow.Once QA job is complete successfully it spin up to Prod waiting for review deployment, and finally approve and deploy. 
